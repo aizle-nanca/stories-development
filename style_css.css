@@ -80,8 +80,8 @@
 	width:100%;}
 .sticky + .content{
 	padding-top: 60px;}
-.Our-Community {
+.OurCommunity {
+	padding:50px;
   	text-align:center;
   	background-color:#F0FFFF;
-  	color:black;
-	}
+  	color:black;}
