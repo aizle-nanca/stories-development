@@ -80,7 +80,7 @@
 	width:100%;}
 .sticky + .content{
 	padding-top: 60px;}
-.OurCommunity h1,p{
+.OurCommunity{
 	padding:50px;
   	text-align:center;
   	background-color:#F0FFFF;
